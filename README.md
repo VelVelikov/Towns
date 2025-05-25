@@ -1,3 +1,5 @@
-# Towns for SoftUni
-Code for the Git and GitHub Exercise
-zx
+# Roles
+
+· webeltek12@gmail.com takes the role "Editor"
+· webeltek12@gmail.com takes the role "Shuffler"
+· webeltek12@gmail.com takes the role "Styler"
